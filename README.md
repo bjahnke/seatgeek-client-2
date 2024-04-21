@@ -1,3 +1,6 @@
+# Note 
+The [original project](https://github.com/jaebradley/seatgeek-client) has been archived. This fork was created to address bugs in the original project.
+
 # SeatGeek Client
 
 [![Coverage Status](https://coveralls.io/repos/github/jaebradley/seatgeek-client/badge.svg?branch=master)](https://coveralls.io/github/jaebradley/seatgeek-client?branch=master)
