@@ -14,4 +14,7 @@ Subpath.initEnum({
   EVENTS: {
     value: 'events',
   },
+  PERFORMERS: {
+    value: 'performers',
+  }
 });
